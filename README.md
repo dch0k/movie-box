@@ -1,12 +1,11 @@
 # Movie Box Web applicaiton
-Movie online site inspired from famous website. Created for summer learning project
+Movie online site inspired from famous website. Created for summer learning project.
 
-View demo 
-https://cdara.github.io/movie-box/
+**See Demo in Chrome** https://cdara.github.io/movie-box/
 
 {{Sign In or Register using your dummy input data to login into homepage}} 
 
-Technology:
+**Technology**
 
 Language: HTML, CSS, JavaScript
 
